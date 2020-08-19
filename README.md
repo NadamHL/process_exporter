@@ -17,7 +17,7 @@ Flags:
 
 #获取metrics
 ```
-#curl http://10.100.106.13:19124/metrics
+#curl http://x.x.x.x:19124/metrics
 # HELP go_gc_duration_seconds A summary of the pause duration of garbage collection cycles.
 # TYPE go_gc_duration_seconds summary
 go_gc_duration_seconds{quantile="0"} 3.3159e-05
