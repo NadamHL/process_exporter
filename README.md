@@ -1,6 +1,13 @@
 # process_exporter
 旨在收集操作系统进程的cpu、mem、io读写、程序执行路径、文件打开数等信息
 
+
+#grafana展示
+
+
+
+
+
 #使用指南
 默认端口19124，默认metrics，可以自行修改
 ```
